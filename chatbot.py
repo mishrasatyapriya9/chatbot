@@ -1,8 +1,9 @@
+# before use this code make a chatbot.txt file in your laptop/pc and copy any topic from wikipedia and paste in the chatbot.txt file then open google colab website upload that chatbot.txt file in the website ,then make a code notepad copy the below code and paste it in that notepad and then run that code .Done 
 import nltk
 import numpy as np
 import random
 import string
-##from lib import response,greeting
+##from lib import response,greetingopen goo
 
 f=open('Chatbot.txt','r', errors='ignore')
 
